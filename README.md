@@ -41,6 +41,10 @@ Vibe Camp's coming live to you!
 
 Suno sang "live" to rhyme with "give", not "five". We kept it.
 
+## Episodes
+
+- [Episode 1: Building the show](episodes/001-building-the-show.md) (2026-10-19)
+
 ## Badge
 
 [`art/badge.png`](art/badge.png) is the chosen badge. [`art/badge-alt.png`](art/badge-alt.png) is the runner-up. Both were made with Nano Banana.
