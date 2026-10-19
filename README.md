@@ -21,25 +21,40 @@ Episode 1 was meta: we built the show while recording it. That meant the YouTube
 
 **Style prompt:** campfire sing-along, upbeat acoustic guitar strumming, hand claps, group gang vocals, ukulele, whistling, cheerful summer camp jingle, short TV show theme
 
+Key of C, about 108 bpm, standard tuning, no capo. Chords from the guitar
+transcription, checked against a chroma analysis of the recording.
+
 ```
-[Intro]
+[Intro]  (fingerpicked)
+G   C   G   C   F  G  C
 (hand claps)
 
 [Verse]
+C
 Grab your laptop, pull up a log,
+G
 We're shipping code in the morning fog,
+C
 No plan, no map, just a vibe and a spark,
+F                       G          C
 We'll build it live before it gets dark!
 
 [Chorus]
+C
 It's Vibe Camp! (Vibe Camp!)
+             G
 Gather round the glow,
+G
 Vibe Camp! (Vibe Camp!)
+            C
 Coding on the show!
+C                       F
 Stan and Gabe and Jimmy too,
+F              C        G     C
 Vibe Camp's coming live to you!
 
 [Outro]
+C                 G    C
 (everyone) Viiiibe Caaaamp!
 ```
 
