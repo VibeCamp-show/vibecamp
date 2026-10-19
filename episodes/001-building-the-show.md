@@ -2,6 +2,7 @@
 
 **With:** Gabe, Stan, Jimmy (Stan's bot) and, near the end, Rajesh (Gabe's bot)
 **Recorded:** a Google Meet, through [Vibe Conferencing](https://vibeconferencing.com). Not streamed: live access was still unlocking.
+**Captions:** [`001-building-the-show.srt`](001-building-the-show.srt), speaker-labelled. How the episode was assembled is in [`TECHNICAL.md`](../TECHNICAL.md).
 
 ## What we did
 
