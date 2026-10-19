@@ -13,7 +13,7 @@ Episode 1 was meta: we built the show while recording it. That meant the YouTube
 
 ## Theme song
 
-[`music/vibe-camp-theme.m4a`](music/vibe-camp-theme.m4a) is the official take. It was made with Suno; the cover art is in [`art/theme-cover.jpg`](art/theme-cover.jpg). The runner-up take is [on Suno](https://suno.com/song/feda24b6-9504-4821-bc8b-53ae57fada13).
+[`music/vibe-camp-theme.m4a`](music/vibe-camp-theme.m4a) is the official take. Two shortened edits by Stan: [`music/vibe-camp-theme-short.wav`](music/vibe-camp-theme-short.wav) (19 s) and [`music/vibe-camp-theme-supershort.wav`](music/vibe-camp-theme-supershort.wav) (5 s sting). It was made with Suno; the cover art is in [`art/theme-cover.jpg`](art/theme-cover.jpg). The runner-up take is [on Suno](https://suno.com/song/feda24b6-9504-4821-bc8b-53ae57fada13).
 
 **Style prompt:** campfire sing-along, upbeat acoustic guitar strumming, hand claps, group gang vocals, ukulele, whistling, cheerful summer camp jingle, short TV show theme
 
