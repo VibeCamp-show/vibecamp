@@ -63,6 +63,9 @@ Suno sang "live" to rhyme with "give", not "five". We kept it.
 ## Episodes
 
 - [Episode 1: Building the show](episodes/001-building-the-show.md) (2026-10-19)
+- [Episode 2: Mario Negrello: neuroscience × AI × education](episodes/002-mario-negrello.md) (2026-10-21)
+
+Going live: [streaming setup checklist](docs/streaming-setup.md)
 
 ## Badge
 
